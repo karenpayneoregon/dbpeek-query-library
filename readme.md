@@ -1,5 +1,6 @@
 # Reveal Data provider parameter values at run time
 
+See [article](https://dev.to/karenpayneoregon/reveal-data-provider-parameter-values-at-run-time-2ck) for details.
 
 ![Results](assets/results.png)
 
